@@ -17,8 +17,11 @@ abazuos@gmail.com
 Install:
 
 1 - Install piplapis-python lib from ( https://github.com/piplcom/piplapis-python )
-
-2 - Run script 
-	chmod 640 ./getinfo.py;./getinfo.py
+2 - Intall phonenumbers
+	pip install phonenumbers
+3 - set permission for script 
+	chmod 640 ./getinfo.py
+4 - Run Script
+	./getinfo.py
 
 
