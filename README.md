@@ -19,7 +19,6 @@ Install:
 1 - Install piplapis-python lib from ( https://github.com/piplcom/piplapis-python )
 
 2 - Run script 
-	chmod 640 ./getinfo.py
-	./getinfo.py
+	chmod 640 ./getinfo.py;./getinfo.py
 
 
