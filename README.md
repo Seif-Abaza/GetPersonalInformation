@@ -12,3 +12,14 @@ I am trying to develop and depend on many sources on the Internet, but initially
 
 for more help please write to me in 
 abazuos@gmail.com
+
+
+Install:
+
+1 - Install piplapis-python lib from ( https://github.com/piplcom/piplapis-python )
+
+2 - Run script 
+	chmod 640 ./getinfo.py
+	./getinfo.py
+
+
